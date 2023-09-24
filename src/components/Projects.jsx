@@ -41,7 +41,7 @@ const Projects = () => {
                             Car Rental Website (HTML, CSS, JS, PHP, SQL)
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://github.com/enn-y/React-Apps">
+                            <a href="https://github.com/enn-y/Car-Rental-Website-Full-Stack">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-blue-900 font-bold text-lg'>Code</button>
                             </a>
 
